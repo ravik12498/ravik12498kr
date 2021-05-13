@@ -1,0 +1,17 @@
+td {
+    text-align : center;
+}
+div {
+    text-align: center;
+}
+tr {
+    text-align : center;
+}
+.mark{
+	background: url() no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+body {
+    background-color: antiquewhite;
+}
