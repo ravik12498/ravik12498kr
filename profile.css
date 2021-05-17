@@ -202,9 +202,17 @@ body{
 form{
 	font-size: medium;
 }
-form .label{
-	padding-right: 50px;
-}
 form .textarea{
 	display: center;
+}
+form label{
+	font-size: large;
+	font-family: "Roboto Cn", sans-serif;
+	padding-right: 700px;
+    margin-top: 20px;
+	display: flex;
+}
+form .submit{
+	height: 5vh;
+    margin: 5px 0;
 }
